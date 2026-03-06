@@ -1,0 +1,17 @@
+ body {
+            background: #f2f2f2;
+        }
+
+        .weather-card {
+            max-width: 400px;
+            margin: auto;
+            margin-top: 80px;
+            padding: 20px;
+            border-radius: 10px;
+            background: rgb(125, 220, 235);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        #weatherResult {
+            margin-top: 20px;
+        }
